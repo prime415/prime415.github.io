@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,900&display=swap');
+
+
+body {
+  background-color: #f2faff;
+  color: #606060;
+  font-family: "Roboto", sans-serif;
+}
+
+h1{
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  border: ;
+  font-style: normal;
+  font-size: 80px;
+  background-color: pink;
+  border: 3px solid blue;
+  padding: 30px;
+  margin-bottom: 60px;
+  font-family:"Georgia" , sans-serif;
+
+}
+h1:hover{
+background-color: white;
+}
+
+h2{
+  text-align: center;
+  font-weight: normal;
+  font-style: italic;
+  font-size: 30px;
+
+}
+
+
+
+#first-list{
+  background-color: lime;
+
+}
+
+
+.mammals{
+  color: red;
+  font-weight: bold;
+}
+
+.birds{
+  color: blue;
+  font-style: italic;
+}
+
+.fish{
+  color: orange;
+  text-decoration: underline;
+}
+
+#first-list li{
+  display: inline-block;
+  margin-left: 30px;
+}
+
+#images img {
+  display: inline-block;
+  width: 600px;
+  height: 600px;
+  margin: 20px auto;
+}
